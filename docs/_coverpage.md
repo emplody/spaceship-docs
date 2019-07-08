@@ -9,7 +9,7 @@
 - Multiple themes
 
 [GitHub](https://github.com/emplody/spaceship/)
-[Get Started](#headline)
+[Get Started](#Spaceship)
 
 
 <!-- background image -->
