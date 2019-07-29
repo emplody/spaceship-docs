@@ -53,7 +53,7 @@ normalizeKeyword("미국ㄱ");
 
 ## objToParams(obj)
 
-<p><a href="https://github.com/lodash/lodash/blob/4.17.11/lodash.js#L6841">source</a> <a href="https://www.npmjs.com/package/lodash.chunk">npm package</a></p>
+<p><a href="https://github.com/emplody/spaceship/tree/develop/utils/spaceship.objToParams">source</a> <a href="https://www.npmjs.com/package/@emplodies/spaceship.obj-to-params">npm package</a></p>
 <p>Make url with <code>parameters</code> from object data.
 </p>
 <h4>Since</h4>

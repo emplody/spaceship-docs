@@ -2,7 +2,7 @@
 
 ## asyncState(value)
 
-<p><a href="https://github.com/lodash/lodash/blob/4.17.11/lodash.js#L6841">source</a> <a href="https://www.npmjs.com/package/lodash.chunk">npm package</a></p>
+<p><a href="https://github.com/emplody/spaceship/tree/develop/utils/spaceship.asyncState">source</a> <a href="https://www.npmjs.com/package/@emplodies/spaceship.async-state">npm package</a></p>
 <p>Easily manage status that pending, success, failure at <code>asynchronous request</code>.
 
 <h4>Since</h4>
@@ -73,7 +73,7 @@ class Example {
 
 ## scriptLoader(src)
 
-<p><a href="https://github.com/lodash/lodash/blob/4.17.11/lodash.js#L6841">source</a> <a href="https://www.npmjs.com/package/lodash.chunk">npm package</a></p>
+<p><a href="https://github.com/emplody/spaceship/tree/develop/utils/spaceship.scriptLoader">source</a> <a href="https://www.npmjs.com/package/@emplodies/spaceship.script-loader">npm package</a></p>
 <p>When we want to <code>dynamically import</code> scripts.
 </p>
 <h4>Since</h4>
