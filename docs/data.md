@@ -1,6 +1,7 @@
 # &#x201C;Data&#x201D; Methods
 
 ## getPadNumber(count, value)
+
 <p><a href="https://github.com/lodash/lodash/blob/4.17.11/lodash.js#L6841">source</a> <a href="https://www.npmjs.com/package/lodash.chunk">npm package</a></p>
 <p>geFormattedNumberString What you want.</p>
 <h4>Since</h4>
@@ -15,17 +16,18 @@
 <h4>Example</h4>
 
 ```js
-getPadNumber(3,1);
+getPadNumber(3, 1);
 // => "001"
- 
-getPadNumber(2,1);
+getPadNumber(2, 1);
 // => "01"
 ```
 
 <hr>
 
 ## normalizeKeyword(keyword)
-// TODO: (sk) : add Description 
+
+// TODO: (sk) : add Description
+
 <p><a href="https://github.com/lodash/lodash/blob/4.17.11/lodash.js#L6841">source</a> <a href="https://www.npmjs.com/package/lodash.chunk">npm package</a></p>
 <p>Creates an array of elements split into groups the length of <code>size</code>.
 If <code>array</code> can&apos;t be split evenly, the final chunk will be the remaining
@@ -41,17 +43,17 @@ elements.</p>
 <h4>Example</h4>
 
 ```js
-normalizeKeyword('ㄴ네이버ㅓ');
+normalizeKeyword("ㄴ네이버ㅓ");
 // => '네이버'
- 
-normalizeKeyword('미국ㄱ');
+normalizeKeyword("미국ㄱ");
 // => '미국'
 ```
 
 <hr>
 
 ## objToParams(obj)
-<p><a href="https://github.com/lodash/lodash/blob/4.17.11/lodash.js#L6841">source</a> <a href="https://www.npmjs.com/package/lodash.chunk">npm package</a></p>
+
+<p><a href="https://github.com/emplody/spaceship/tree/develop/utils/spaceship.objToParams">source</a> <a href="https://www.npmjs.com/package/@emplodies/spaceship.obj-to-params">npm package</a></p>
 <p>Make url with <code>parameters</code> from object data.
 </p>
 <h4>Since</h4>
@@ -65,12 +67,17 @@ normalizeKeyword('미국ㄱ');
 <h4>Example</h4>
 
 ```js
-// TODO: (AbelKo): Add use case 
+objToParams({ job: "programmer" });
+// => 'job=programmer'
+
+objToParams({ name: "abel", age: 23, gender: "male" });
+// => 'name=abel&age=23&gender=male'
 ```
 
 <hr>
 
 ## paramsToObj()
+
 <p><a href="https://github.com/lodash/lodash/blob/4.17.11/lodash.js#L6841">source</a> <a href="https://www.npmjs.com/package/lodash.chunk">npm package</a></p>
 <p>Get data params and change to <code>object.</code></p>
 
@@ -89,6 +96,7 @@ paramsToObj();
 <hr>
 
 ## toTimeString(timestamp, separator = ':')
+
 <p><a href="https://github.com/lodash/lodash/blob/4.17.11/lodash.js#L6841">source</a> <a href="https://www.npmjs.com/package/lodash.chunk">npm package</a></p>
 <p>get <code>Formmated TimeStamp</code> from system time stamp.</p>
 
@@ -106,5 +114,4 @@ paramsToObj();
 
 ```js
 // TODO: (SY) : Refactor ..
-
 ```
