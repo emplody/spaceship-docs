@@ -2,7 +2,7 @@
 
 - Methods
 
-    - [Array](array.md)
-    - [Collection](collection.md)
-    - [Function](function.md)
-    - [Math](math.md)
+    - [Fetch](fetch.md)
+    - [Browser](browser.md)
+    - [Data](data.md)
+    - [etc](etc.md)
