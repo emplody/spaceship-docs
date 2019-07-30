@@ -2,7 +2,7 @@
 
 ## getPadNumber(count, value)
 
-<p><a href="https://github.com/lodash/lodash/blob/4.17.11/lodash.js#L6841">source</a> <a href="https://www.npmjs.com/package/lodash.chunk">npm package</a></p>
+<p><a href="https://github.com/emplody/spaceship/tree/develop/utils/spaceship.getPadNumber">source</a> <a href="https://www.npmjs.com/package/@emplodies/spaceship.get-pad-number">npm package</a></p>
 <p>geFormattedNumberString What you want.</p>
 <h4>Since</h4>
 <p>1.0.0</p>
@@ -94,7 +94,7 @@ paramsToObj();
 
 ## toTimeString(timestamp, separator = ':')
 
-<p><a href="https://github.com/lodash/lodash/blob/4.17.11/lodash.js#L6841">source</a> <a href="https://www.npmjs.com/package/lodash.chunk">npm package</a></p>
+<p><a href="https://github.com/emplody/spaceship/tree/develop/utils/spaceship.toTimeString">source</a> <a href="https://www.npmjs.com/package/@emplodies/spaceship.to-time-string">npm package</a></p>
 <p>get <code>Formmated TimeStamp</code> from system time stamp.</p>
 
 <h4>Since</h4>

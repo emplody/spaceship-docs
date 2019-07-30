@@ -1,7 +1,7 @@
 # &#x201C;Etc&#x201D; Methods
 
 ## uniqueKey()
-<p><a href="https://github.com/lodash/lodash/blob/4.17.11/lodash.js#L6841">source</a> <a href="https://www.npmjs.com/package/lodash.chunk">npm package</a></p>
+<p><a href="https://github.com/emplody/spaceship/tree/develop/utils/spaceship.uniqueKey">source</a> <a href="https://www.npmjs.com/package/@emplodies/spaceship.unique-key">npm package</a></p>
 <p>Generate <code>unique</code>.
 </p>
 <h4>Since</h4>
