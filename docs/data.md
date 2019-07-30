@@ -26,12 +26,9 @@ getPadNumber(2, 1);
 
 ## normalizeKeyword(keyword)
 
-// TODO: (sk) : add Description
+<p><a href="https://github.com/emplody/spaceship/tree/develop/utils/spaceship.normalizeKeyword">source</a> <a href="https://www.npmjs.com/package/@emplodies/spaceship.normalize-keyword">npm package</a></p>
+<p>It can be used in user search keyword case and it can be used to prevent typos to see accurate results</p>
 
-<p><a href="https://github.com/lodash/lodash/blob/4.17.11/lodash.js#L6841">source</a> <a href="https://www.npmjs.com/package/lodash.chunk">npm package</a></p>
-<p>Creates an array of elements split into groups the length of <code>size</code>.
-If <code>array</code> can&apos;t be split evenly, the final chunk will be the remaining
-elements.</p>
 <h4>Since</h4>
 <p>1.0.0</p>
 <h4>Arguments</h4>
@@ -45,7 +42,7 @@ elements.</p>
 ```js
 normalizeKeyword("ㄴ네이버ㅓ");
 // => '네이버'
-normalizeKeyword("미국ㄱ");
+normalizeKeyword('미국ㄱ');
 // => '미국'
 ```
 
@@ -78,7 +75,7 @@ objToParams({ name: "abel", age: 23, gender: "male" });
 
 ## paramsToObj()
 
-<p><a href="https://github.com/lodash/lodash/blob/4.17.11/lodash.js#L6841">source</a> <a href="https://www.npmjs.com/package/lodash.chunk">npm package</a></p>
+<p><a href="https://github.com/emplody/spaceship/tree/develop/utils/spaceship.paramsToObj">source</a> <a href="https://www.npmjs.com/package/@emplodies/spaceship.params-to-obj">npm package</a></p>
 <p>Get data params and change to <code>object.</code></p>
 
 <h4>Since</h4>
